@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "project": {
+            "key": "DS"
+        },
+        "summary": "New Task From API - Test Only",
+        "issuetype": {
+            "name": "Task"
+        },
+        "description": "Demo mike text here",
+        "assignee": {
+            "name": "admin005"
+        },
+        "labels": [
+            "Demo"
+        ]
+    }
+}
